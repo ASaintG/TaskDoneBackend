@@ -1,0 +1,27 @@
+# Ignorar dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Cache y logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Directorios de salida
+dist/
+build/
+
+# Configuraciones del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos relacionados con IDEs
+.vscode/
+.idea/
+
+# Configuración de sistema operativo
+*.swp
+.*.swp
